@@ -1,0 +1,10 @@
+name: mpts
+description: Multi Platform Template System
+version: 0.0.1
+environment:
+  sdk: '^3.3.0'
+
+dependencies:
+
+dev_dependencies:
+  test: ^1.16.0
